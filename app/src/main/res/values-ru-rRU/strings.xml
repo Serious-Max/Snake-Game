@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Змейка</string>
+    <string name="left">Влево</string>
+    <string name="up">Вверх</string>
+    <string name="down">Вниз</string>
+    <string name="right">Вправо</string>
+    <string name="start_game">Начать игру</string>
+    <string name="share_score">Поделиться результатом</string>
+    <string name="share_subject">Приложение Snake Game</string>
+    <string name="share_text">Мой лучший счёт %1$d!</string>
+    <string name="share_title">Отправь свой рекорд!</string>
+    <string name="best_score">Лучший счёт: %1$d</string>
+    <string name="game_over_message">Игра окончена\nНажмите любую кнопку для выхода</string>
+    <string name="theme_default">Стандартная</string>
+    <string name="theme_default_pixel">Стандартная пиксельная</string>
+    <string name="theme_cat">Кошки</string>
+    <string name="theme_label">Тема:</string>
+</resources>
